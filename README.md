@@ -1,2 +1,2 @@
 # Analog-Clock
-It is an Analog Clock showing time using basic HTML, CSS and JS.
+![Analog Clock image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShwiLEYuiCl4JNWQUzTyQVF6AjnR1X33MzhA&usqp=CAU)
